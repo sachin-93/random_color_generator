@@ -1,0 +1,12 @@
+body{
+    background-color: rgb(255, 0, 200);
+    
+}
+
+span {
+    display: block;
+    padding: 1rem;
+    font-size: 1rem;
+    font-weight: normal;
+    font-family: monospace;
+  }
